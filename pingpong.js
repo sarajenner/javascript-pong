@@ -3,7 +3,7 @@ function setup(){
     createCanvas(600,400);
 }
 
-function draw (){
+function draw(){
     //aqui vou por a cor da "masa"
     //A cor da mesa é em rgb
     background (230,230,250);
